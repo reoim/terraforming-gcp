@@ -6,6 +6,7 @@ This is a toy project to get used to using golang and to have deeper understandi
 I may use and customise codes from [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) and [Terraforming](https://github.com/dtan4/terraforming) for study purposes only.
 
 
+# about this repo
 GCP 리소스에서 Terraform의 tf, tfstate 파일을 추출하는 CLI application 입니다.
 
 [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)와 [Terraforming](https://github.com/dtan4/terraforming)의 소스를 참고하여 저희팀 목적에 맞게 커스터마이징 하여 개발하려 합니다.
