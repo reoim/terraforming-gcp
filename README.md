@@ -3,4 +3,4 @@ Build a CLI app just like [Terraformer](https://github.com/GoogleCloudPlatform/t
 
 This is a personal practice to get used to using golang and to have deeper understanding of Terraform and Google Cloud Platform.
 
-I may use and customise code from [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) and [Terraforming](https://github.com/dtan4/terraforming) for study purposes only.
+I may use and customise codes from [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) and [Terraforming](https://github.com/dtan4/terraforming) for study purposes only.
