@@ -1,5 +1,5 @@
 # terraforming-gcp
-Build an app just like [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) from scratch.
+Build a CLI app just like [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) from scratch.
 
 This is a personal practice to get used to using golang and to have deeper understanding of Terraform and Google Cloud Platform.
 
